@@ -1,0 +1,87 @@
+
+.heading
+{
+	color:blue;
+	font-size=80px
+}
+
+
+.description
+{
+	color:white;
+	font-size=40px;
+	border-left-style: solid;
+	border-color: black;
+	padding: 50px 30px 50px 30px;
+	background-color: red
+}
+
+
+.image
+{
+	width: 500px
+}
+
+
+.chart 
+{
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+    border-color: black
+}
+
+
+.circ1 
+{
+    stroke: pink; 
+    fill: white;
+    stroke-width: 5;
+}
+
+.circ2 
+{
+    stroke: pink; 
+    fill: black;
+    stroke-width: 2;
+}
+
+.circ3 
+{
+    fill: pink;
+    stroke:red;
+    stroke-width:3
+}
+
+.ell1 
+{
+    stroke: red; 
+    fill: red;
+    fill-opacity:0.5;
+    stroke-width: 2;
+}
+
+.ell2
+{
+    fill: black
+}
+
+.rect1 
+{
+    stroke: pink; 
+    fill: pink;
+    fill-opacity: 0.5;
+    stroke-width: 5;
+}
+
+.line1 
+{
+    stroke: gray; 
+    stroke-width: 10;
+}
+
+.line2 
+{
+    stroke: pink; 
+    stroke-width: 8;
+}
